@@ -10,8 +10,6 @@ public class PM_ManageUsers extends BrowserInvoke
 		BrowserInvoke.InvokeBrowser();
 		
 		
-		
-		
 	}
 
 }
