@@ -25,6 +25,7 @@ public class BrowserInvoke
 		d.findElement(By.xpath("(//Button[@class='blueButton_submit text-right margin_right_0px ng-binding'])[1]")).click();
 		//d.findElement(By.cssSelector("[class='blueButton_submit text-right margin_right_0px ng-binding']")).click();
 		d.quit();
+		//new pull request
 	}
 	
 	public static void main(String[] args) throws InterruptedException
